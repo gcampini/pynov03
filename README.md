@@ -4,3 +4,6 @@ Vous pouvez utiliser les libs que vous souhaitez pour résoudre les exercices ci
 
 1. Parser le fichier ldg. Quel format de données ? Combien de lignes ? \
    Que decrivent ces données ? Comment pourrait-on les visualiser ?
+
+2. Parser le fichier bnlc. Quel type de données ? Combien de lignes ? \
+   Que decrivent ces données ? Comment pourrait-on les visualiser ?
