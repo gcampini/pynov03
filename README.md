@@ -15,3 +15,7 @@ Vous pouvez utiliser les libs que vous souhaitez pour résoudre les exercices ci
 
 5. Transformer le dataset de la dernière séance (client -> date -> transaction.json) en fichier CSV. \
    Dans un second temps, parser le csv obtenu. Combien de transactions ?
+
+# Images (binaires)
+
+1. Donner la moyenne des dimensions des images.
