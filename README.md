@@ -9,3 +9,6 @@ Vous pouvez utiliser les libs que vous souhaitez pour résoudre les exercices ci
    Que decrivent ces données ? Comment pourrait-on les visualiser ?
 
 3. Créer un fichier du même format (JSON) que ldg mais beaucoup plus lisible.
+
+4. Transformer le fichier ldg (JSON) en CSV (seulemnt 3/4 champs suffisent). \
+   Quels sont les avantages et désavantages de ces 2 formats ?
