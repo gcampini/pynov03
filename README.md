@@ -12,3 +12,6 @@ Vous pouvez utiliser les libs que vous souhaitez pour résoudre les exercices ci
 
 4. Transformer le fichier ldg (JSON) en CSV (seulemnt 3/4 champs suffisent). \
    Quels sont les avantages et désavantages de ces 2 formats ?
+
+5. Transformer le dataset de la dernière séance (client -> date -> transaction.json) en fichier CSV. \
+   Dans un second temps, parser le csv obtenu. Combien de transactions ?
