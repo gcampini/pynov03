@@ -1,0 +1,9 @@
+.idea
+venv
+
+data
+images*
+
+ldg.csv
+ldg.json
+transactions.csv
